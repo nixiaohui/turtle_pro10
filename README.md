@@ -20,7 +20,7 @@ turtle模块10个有趣的小项目源代码
 
 9. 推箱子（源码文件：box.py）
 
-10. 贪吃蛇（源码文件：https://github.com/nixiaohui/turtle_snake.git）
+10. 贪吃蛇（源码文件：https://github.com/nixiaohui/turtle_snake.git ）
 
 以上10个项目持续更新视频教程到B站：
 https://www.bilibili.com/video/BV1Cu4y1p7Yy/
